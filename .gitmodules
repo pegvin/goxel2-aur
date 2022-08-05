@@ -1,0 +1,9 @@
+[submodule "goxel2"]
+	path = goxel2
+	url = ssh://aur@aur.archlinux.org/goxel2.git
+[submodule "goxel2-git"]
+	path = goxel2-git
+	url = ssh://aur@aur.archlinux.org/goxel2-git.git
+[submodule "goxel2-bin"]
+	path = goxel2-bin
+	url = ssh://aur@aur.archlinux.org/goxel2-bin.git
