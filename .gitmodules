@@ -1,0 +1,9 @@
+[submodule "goxel2-git"]
+	path = goxel2-git
+	url = https://aur.archlinux.org/goxel2-git.git
+[submodule "goxel2-bin"]
+	path = goxel2-bin
+	url = https://aur.archlinux.org/goxel2-bin.git
+[submodule "goxel2"]
+	path = goxel2
+	url = https://aur.archlinux.org/goxel2.git
